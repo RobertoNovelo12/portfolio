@@ -1,0 +1,56 @@
+{
+    "proyectos": [
+        {
+            "nombre": "¡Clásico juego de ahorcados!",
+            "fecha": "Marzo 2025",
+            "imagen": "img/proyecto1.webp",
+            "descripcion": "¡Bienvenido al clásico juego del Ahorcado! Esta versión está desarrollada utilizando HTML5, CSS y JavaScript puro, ofreciendo una experiencia interactiva y visualmente atractiva.",
+            "tecnologias": [
+                {"nombre": "HTML5", "icono": "devicon-html5-plain"},
+                {"nombre": "CSS3", "icono": "devicon-css3-plain"},
+                {"nombre": "JavaScript", "icono": "devicon-javascript-plain"}
+            ],
+            "demo": "https://ahorcados-game.vercel.app/",
+            "codigo": "https://github.com/RobertoNovelo12/ahorcados-game"
+        },
+        {
+            "nombre": "¡Un clon del juego de wordle!",
+            "fecha": "Febrero 2025",
+            "imagen": "img/proyecto2.webp",
+            "descripcion": "¡Bienvenido a mi clon de Wordle! Este es un juego de adivinanzas de palabras inspirado en el popular juego Wordle, desarrollado completamente con JavaScript, HTML y CSS.",
+            "tecnologias": [
+                {"nombre": "HTML5", "icono": "devicon-html5-plain"},
+                {"nombre": "CSS3", "icono": "devicon-css3-plain"},
+                {"nombre": "JavaScript", "icono": "devicon-javascript-plain"}
+            ],
+            "demo": "https://wordle-clone-woad-delta.vercel.app/",
+            "codigo": "https://github.com/RobertoNovelo12/Wordle-clone"
+        },
+        {
+            "nombre": "¡El cásico juego de memorama, para dos personas e individual!",
+            "fecha": "Marzo 2025",
+            "imagen": "img/proyecto3.webp",
+            "descripcion": "¡Bienvenido al clásico juego de Memorama! Esta versión está desarrollada utilizando HTML5, CSS y JavaScript puro, ofreciendo una experiencia interactiva y visualmente atractiva.",
+            "tecnologias": [
+                {"nombre": "HTML5", "icono": "devicon-html5-plain"},
+                {"nombre": "CSS3", "icono": "devicon-css3-plain"},
+                {"nombre": "JavaScript", "icono": "devicon-javascript-plain"}
+            ],
+            "demo": "https://memorama-game-ruby.vercel.app/",
+            "codigo": "https://github.com/RobertoNovelo12/memorama-game"
+        },
+        {
+            "nombre": "Proyecto escolar para dibujar un triángulo en 2D y 3D según su base y altura",
+            "fecha": "Diciembre 2024",
+            "imagen": "img/proyecto4.webp",
+            "descripcion": "Este proyecto es una aplicación web que permite visualizar y calcular las propiedades de un triángulo tanto en 2D como en 3D. Incluye funcionalidades para dibujar el triángulo, calcular su área, altura, base y hipotenusa, y ofrece instrucciones interactivas para su uso en PC y dispositivos móviles.",
+            "tecnologias": [
+                {"nombre": "HTML5", "icono": "devicon-html5-plain"},
+                {"nombre": "CSS3", "icono": "devicon-css3-plain"},
+                {"nombre": "JavaScript", "icono": "devicon-javascript-plain"}
+            ],
+            "demo": "https://figura-geometrica.vercel.app/",
+            "codigo": "https://github.com/RobertoNovelo12/figura-geometrica"
+        }
+    ]
+}
